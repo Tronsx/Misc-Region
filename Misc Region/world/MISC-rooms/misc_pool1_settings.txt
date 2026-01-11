@@ -1,0 +1,6 @@
+Template: NONE
+EffectColorA: 12
+Effects: SkyAndLightBloom-0.06521739-20-20, 
+PlacedObjects: WallLight><1356.839><87.38202><150~50~1356.839~87.38202~2~495~299~-3~306~497~0.6195652~0.9021739~1~False~SkyColor~False~False~Always~Hard, LightSource><1509.117><89.58801><1~EffectColor1~-2~720~323~100.6025~1~0~None~0~0, WaterCutoff><1119><356><1417~0~30~30~Y, WaterCutoff><1219.22><355.8023><-430~0~30~30~Y, 
+AmbientSounds: SPOT><RWTW_AmbDrips_04.ogg><751.3372><479.68><0.5><1><1509.337><96.68005><7.644653><1786.645><0><0.3717393, OMNI><waterGurgleLOOP3.wav><695.0773><292.9344><0.1413043><1, 
+FadePalette: 10, 0, 1, 1, 1, 1
