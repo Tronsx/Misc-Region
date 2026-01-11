@@ -1,0 +1,11 @@
+{
+	"id": "misc",
+	"name": "Miscellanea",
+	"version": "0.1",
+	"hide_version": false,
+	"authors": "Tronsx",
+	"description": "Gallery rooms for everyone",
+	"requirements": ["regionkit", "crs"],
+	"requirements_names": ["RegionKit", "Custom Regions Support"],
+	"checksum_override_version": true
+}
