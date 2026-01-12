@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 1
+RandomItemDensity: 0
+RandomItemSpearChance: 0
+Palette: 10003
+EffectColorA: 6
+Effects: ModifyEffectColorA-0,0.09782609,0.5-20-20, SilenceWater-1-298-67, 
+PlacedObjects: WallLight><4751.564><994.9263><-277~-306~4751.564~994.9263~-356~-567~2016~-1~1615~-745~0.1413043~0.3586957~0.6521739~False~SkyColor~False~False~Always~Hard, LightSource><5744.824><822.3448><1~EffectColor1~920~-752~-59~-201.3975~1~0~None~0~0, LightSource><4900><818><1~EffectColor1~920~-752~-59~-201.3975~1~0~None~0~0, LightSource><6638><821><1~EffectColor1~920~-752~-59~-201.3975~1~0~None~0~0, 
+AmbientSounds: SPOT><RWTW_AmbDrips_04.ogg><733.1204><476.3477><0.5><1><203.1204><416.3477><2384.645><11.64465><0><0.3500001, SPOT><RWTW_AmbEmpty.ogg><738.9497><313.489><0.3804348><1><6655.95><816.489><-2130.355><-625.3553><0><0.3500001, OMNI><waterGurgleLOOP3.wav><735.1793><237.0887><0.1413043><1, 
+FadePalette: 10, 1, 0.8695652, 0.7282609, 0.5652174, 0.4565217, 0.4565217

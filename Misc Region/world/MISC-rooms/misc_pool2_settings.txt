@@ -1,0 +1,14 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 1
+Clouds: 0
+RandomItemDensity: 0
+RandomItemSpearChance: 0
+Palette: 10002
+EffectColorA: 17
+Effects: LightBurn-0.4021739-20-20, AboveCloudsView-1-27-74, ModifyEffectColorA-0,1,0.04347826-698-402, SilenceWater-1-294-79, 
+PlacedObjects: BetterDecal><308.8103><509.8093><-397~-231~-396~332~78~328~74~-222~572~-57~True~BURN~NORMAL~MUL~0~1~0~True~True~True~True~True~True~deepblacksquare~0~1~0~1~1~1~0~0~0~1~1~1~0~0~0~1~1~1~0~1~0~1~1~1, WallLight><387.071><764.6607><-272~-227~387.071~764.6607~-5~-234~711~14~715~-227~1~0.5~1~False~SkyColor~False~False~Always~Hard, LightBeam><411.6926><340.196><172~629~414~627~276~1~-344~-52~0.3021738~0~0~0~None~0~0, LightBeam><590><430><172~629~311~625~173~3~-344~-52~0.3021738~0~0~0~None~0~0, LightBeam><597><303><172~629~238~623~61~0~-344~-52~0.3021738~0~0~0~None~0~0, LightBeam><667><287><172~629~552~642~327~-6~-344~-52~0.3021738~0~0~0~None~0~0, LightSource><775.6995><263.015><1~Environment~-534~37~50~86.60254~0~0~None~0~0, LightSource><1668><275><1~Environment~-534~37~50~86.60254~0~0~None~0~0, BallToy><1113.425><276.5648><0~100, WaterNut><690.939><232.1845><0~0~2~3, 
+AmbientSounds: SPOT><RWTW_AmbDrips_04.ogg><741.3021><470.4714><0.5><1><6482.302><361.4714><-2445.355><38.64465><0><0.3826088, OMNI><waterGurgleLOOP3.wav><709.1284><291.8412><0.1413043><1, SPOT><AM_ENV-NatWind.ogg><474.0515><246.726><0.25><1.234783><751.0515><729.726><1109.645><-553.3553><0><0.3065219, 
+FadePalette: 10, 0, 0.1304348, 0.5652174, 0.7282609, 0.8695652, 1
+BackgroundOffset: 0,5000
+BackgroundType: pool_rooms
