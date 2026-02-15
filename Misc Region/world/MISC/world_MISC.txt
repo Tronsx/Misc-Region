@@ -4,4 +4,6 @@ MISC_pool1 : DISCONNECTED, MISC_pool2, MISC_pool3
 MISC_pool2 : MISC_pool1
 MISC_pool3 : MISC_pool1
 
+MISC_DreamPit : DISCONNECTED
+
 END ROOMS

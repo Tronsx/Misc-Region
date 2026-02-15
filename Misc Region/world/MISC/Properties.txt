@@ -1,0 +1,3 @@
+overseersSpawnChance: 0
+overseersMin: 1
+overseersMax: 4
