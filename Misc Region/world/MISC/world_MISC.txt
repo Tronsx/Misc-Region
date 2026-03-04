@@ -6,4 +6,7 @@ MISC_pool3 : MISC_pool1
 
 MISC_DreamPit : DISCONNECTED
 
+MISC_DreamChains : DISCONNECTED
+
 END ROOMS
+

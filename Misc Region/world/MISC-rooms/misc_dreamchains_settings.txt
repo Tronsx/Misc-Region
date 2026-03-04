@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: None
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 0.75
+Grime: 0
+Palette: 49049
+EffectColorA: 18
+Effects: LightBurn-0.2934783-20-20, BkgOnlyLightning-1-285-34, RGBElectricDeath-1-709-343-Red:255-Blue:0-AffectBKGLightning:True-Green:0, FairyParticles-0.1086956-38-94, 
+PlacedObjects: WallLight><278.361><106.9164><150~50~278.361~106.9164~-30~95~120~3~155~88~0~0.8586956~0.3152174~False~SkyColor~False~False~Always~Hard, WallLight><580><108><150~50~580~108~-30~95~119~2~155~88~0~0.8586956~0.3152174~False~SkyColor~False~False~Always~Hard, WallLight><883><115><150~50~883~115~-30~95~120~2~155~88~0~0.8586956~0.3152174~False~SkyColor~False~False~Always~Hard, WallLight><1179><110><-419~3~1179~110~-30~95~121~1~155~88~0~0.8586956~0.3152174~False~SkyColor~False~False~Always~Hard, WallLight><-22><105><150~50~-22~105~-30~95~122~3~155~88~0~0.8586956~0.3152174~False~SkyColor~False~False~Always~Hard, FairyParticleSettings><460.1058><275.3614><69~-22.33978~1~1.086957~1.086957~0~1~4.652174~60~180~257.3912~360.8697~5~0~0~70.43478~0~0~0.3043478~1~0.7608696~0.2282609~1~0~10~Star_Thick~SIN_IO~QUAD_IN~200~1~10.86957, LightSource><788.6763><75.90556><0.5~EffectColor1~11~152~50~86.60254~0~0~None~0~0, LightSource><482><76.00001><0.5~EffectColor1~11~152~50~86.60254~0~0~None~0~0, LightSource><186><82.00001><0.5~EffectColor1~11~152~50~86.60254~0~0~None~0~0, LightSource><1091><84.00001><0.5~EffectColor1~11~152~50~86.60254~0~0~None~0~0, LightSource><1390><97><0.5~EffectColor1~11~152~50~86.60254~0~0~None~0~0, 
+AmbientSounds: OMNI><RWTW_AmbEmpty.ogg><718.1246><457.5942><0.6521739><0.4521739, OMNI><MSC-MetalVariety.ogg><707.95><269.4949><0.3043478><0.2173913, OMNI><AM_RAIN-Rumbles.ogg><711.0586><175.192><0.3695652><1, OMNI><GR_CoreScream.ogg><678.3247><567.1537><0.2826087><0.4521739, 
