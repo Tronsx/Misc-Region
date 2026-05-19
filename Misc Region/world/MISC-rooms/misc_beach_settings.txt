@@ -1,0 +1,24 @@
+Template: NONE
+DangerType: None
+WaveSpeed: 0.6847826
+WaveLength: 1
+WaveAmplitude: 0.2391304
+SecondWaveLength: 0.3949273
+SecondWaveAmplitude: 0
+Clouds: 0.3043478
+Grime: 0.1521739
+Palette: 80008
+TerrainLight: 0.1847826
+TerrainStainAmount: 0
+TerrainStainBrightness: 0.2282609
+TerrainStainHeight: 1
+TerrainWaves: 0.423913
+TerrainEdgeRadius: 200
+TerrainGrain: 0.4565217
+TerrainDepth: -10
+TerrainSkyFade: 1
+TerrainPalette: liminalbeach
+Effects: SkyBloom-1-20-20, 
+PlacedObjects: TerrainHandle><521.6263><71.40517><-45~-10~50~4~20, TerrainHandle><714.6984><84.27596><-52~-1~40~1~60, TerrainHandle><908.1218><96.59738><-59~-8~41~3~58, TerrainHandle><1232.052><106.0332><-58~3~43~10~37, TerrainHandle><1427.18><138.9134><-51~-14~41~1~23, CustomDecal><343.8472><149.629><-23~692~494~682~487~-3~307~2.000015~0~1~1~rf_whitesand~0.09782609~1~0.09782609~1~0.09782609~1~0.09782609~1, CustomDecal><834><123><-23~692~645~676~604~4~307~2.000015~0~1~1~rf_whitesand~0.09782609~1~0.09782609~1~0.09782609~1~0.09782609~1, CustomDecal><373><50.00002><-15~333~1230~356~1238~21~307~2.000015~0~1~1~rustymetal(var)~0.1847826~1~0.1847826~1~0.1847826~1~0.1847826~1, LightSource><526.5522><172.4701><1~Environment~152~204~50~86.60254~0~0~None~0~0, CustomDecal><332.0216><449.6988><-12~408~1285~423~1291~4~336~-173~0~0.2173913~0~bigmud~0.4673913~1~0.4673913~1~0.4673913~1~0.4673913~1, CustomDecal><389><481><-12~408~1285~423~1291~4~336~-173~0.25~1~0~bigmud~0.1086956~1~0.1086956~1~0.1086956~1~0.1086956~1, ClimbableArc><866.8077><411.8085><0;0^7;115^161;246^98;193, 
+AmbientSounds: OMNI><rwtw_ambseaside.ogg><683.6426><200.3313><0.4021739><1, 
+FadePalette: 0, 0
